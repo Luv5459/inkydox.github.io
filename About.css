@@ -1,0 +1,202 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://assets.nicepagecdn.com/e03b073d/4774623/images/2d300ee2e9ef97f9fd06fe20d80689bdc327ff3cd1aa754d8848b5aeff20022f650781acb1c508f0efa95b7c13800241fe15e1bfe0d01762506c9b_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 923px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 784px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 644px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 492px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 420px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(#478ac9, #e5e5e5);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 94px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 40px 59px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(#77aad9, #2cccc4);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 587px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 406px;
+  height: 406px;
+  background-image: url("https://assets.nicepagecdn.com/e03b073d/4774623/images/6.jpg");
+  background-position: 50% 50%;
+  margin: 91px 72px 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  line-height: 1.8;
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: -212px 460px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 700;
+  margin: -381px auto 60px 207px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    width: 680px;
+    margin-right: 260px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    width: 540px;
+    font-size: 1rem;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 155px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 340px;
+    margin-top: -146px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 98px;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(#77aad9, #2cccc4);
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 587px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 406px;
+  height: 406px;
+  background-image: url("https://assets.nicepagecdn.com/e03b073d/4774623/images/Abhi.jpg");
+  background-position: 50% 50%;
+  margin: 91px 72px 0 auto;
+}
+
+.u-section-4 .u-text-1 {
+  line-height: 1.8;
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: -212px 469px 0 -9px;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 700;
+  margin: -382px auto 302px 140px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-1 {
+    width: 680px;
+    margin-right: 369px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: -381px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-1 {
+    margin-right: 259px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    width: 540px;
+    font-size: 1rem;
+    margin-right: 169px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 340px;
+    margin-top: -146px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 88px;
+  }
+}
